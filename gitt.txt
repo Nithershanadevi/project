@@ -1,3 +1,6 @@
 scenario 1: book flight to chennai
 scenario 2: book flight to delhi
 
+
+scenario 3: book a ticket
+scenario 4: book a ticket

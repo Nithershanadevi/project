@@ -10,3 +10,5 @@ scenario 5: book ticket
 scenario 6: book ticket
 
 >>>>>>> pro
+scenario 7: done
+scenario 8: done
